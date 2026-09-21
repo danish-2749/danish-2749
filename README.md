@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Danish Khan<br><br>🎨 **UI/UX Designer** | 💻 **Frontend Developer** | 🚀 **Tech Enthusiast**<br><br>I'm **Danish Khan**, a B.Tech student at **Gujarat Technical University (GTU)**, passionate about creating **clean, modern and user-friendly digital experiences**.<br><br>✨ **What I do:**<br><br>* 🎨 UI/UX Design & Prototyping<br>* 💻 Frontend Development — HTML, CSS & JavaScript<br>* 🐍 Python & Flask<br>* 🔍 Exploring Web Technologies & AI/ML<br>* 🚀 Building projects and learning by doing<br><br>I love turning ideas into **beautiful, functional and responsive interfaces**.<br><br>> **Design. Code. Create. Repeat. 🚀**<br>
+# 👋 Hi, I'm Danish Khan<br><br>🎨 **UI/UX Designer** | 💻 **Frontend Developer** | 🚀 **Tech Enthusiast**<br><br>I'm **Danish Khan**, a B.Tech student at **i.k Gujarat punjab Technical University (PTU)**, passionate about creating **clean, modern and user-friendly digital experiences**.<br><br>✨ **What I do:**<br><br>* 🎨 UI/UX Design & Prototyping<br>* 💻 Frontend Development — HTML, CSS & JavaScript<br>* 🐍 Python & Flask<br>* 🔍 Exploring Web Technologies & AI/ML<br>* 🚀 Building projects and learning by doing<br><br>I love turning ideas into **beautiful, functional and responsive interfaces**.<br><br>> **Design. Code. Create. Repeat. 🚀**<br>
 
 
 ## 🌐 Socials:
